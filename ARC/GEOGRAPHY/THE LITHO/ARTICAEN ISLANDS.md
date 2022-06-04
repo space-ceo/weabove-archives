@@ -1,0 +1,1 @@
+>Massive chunks of the Antarctic continent locked around the south pole, containing large amounts of frozen water which are harvested and shipped out around planet.
