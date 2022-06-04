@@ -1,0 +1,3 @@
+>The [REDACTED] were a militaristic faction that emerged from the remnants of old world national union militaries, mainly the [REDACTED], [REDACTED], and the [REDACTED]. They sought to preserve old world ideals and national boundaries throu... [CORRUPTED] ...ctions devolved into an all out war, with [REDACTED] depleting the nuclear arsenals of several countries into [REDACTED] installations. The brunt of this assault was inflicted on the landmass of [REDACTED], the populatio...[CORRUPTED]
+
+>This event caused the [REDACTED] to focus heavily on... [CORRUPTED]...tterly destroy the [REDACTED], leaving them as broken as [REDACTED] itself. They hunted down the remnants one by one until none were left who would call themselves a [REDACTED].

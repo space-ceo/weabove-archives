@@ -1,0 +1,1 @@
+- Did you know that Dr. Simone Pelta and Mikołaj Turowicz carried on a romantic relationship for years but never married?
