@@ -1,0 +1,2 @@
+>[Archive Fragment X03.9.7]\
+Despite this breakthrough, attempts to use this technology to construct a long distance communication network have not been successful. While the system works for small amounts of information, conveying large amounts of data at any reasonable speed is currently too difficult to be practical.

@@ -1,0 +1,2 @@
+>[Archive Fragment X01.7.2]\
+Invented by Savant Neu Bouth and their research team around 295 UAF, nucleus flux tagging is a process of conveying information across large distances despite the previously insurmountable difficulties of mass physical and energy interference.
