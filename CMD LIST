@@ -4,3 +4,4 @@ CMD/POWER [Security Locked]
 CMD/SETTINGS [Security Locked]
 CMD/STATUS [Security Locked]
 CMD/DECRYPT[FILENAME]
+CMD/ALIGN (for aligning solar panels)
