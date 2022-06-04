@@ -1,0 +1,1 @@
+>The remnants of the African continent broken up into multiple large chunks held in close proximity... corrupted ...stinct culture and community, the people of the Alkebulan Archipelago still have many shared traditions and will often trade and work with each other towards common goals.

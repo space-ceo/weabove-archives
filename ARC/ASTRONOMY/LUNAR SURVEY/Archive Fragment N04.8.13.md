@@ -1,0 +1,2 @@
+>[Archive Fragment N04.8.13]\
+Did the geoelectric storm which knocked out our launch systems also wreck havoc on Earth’s communications? We knew that with the instability in the Earth’s magnetosphere that some temporary disruption was possible. BUT IT’S BEEN 28 DAYS!
