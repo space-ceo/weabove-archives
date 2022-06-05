@@ -1,0 +1,2 @@
+>[Archive Fragment C03.0.4]\
+While it is unknown what natural process caused the formation of raw gravite, some suspect it is the result of a failed blackhole or the remnants of a previous universe that predates the Big Bang.

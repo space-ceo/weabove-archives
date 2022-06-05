@@ -1,0 +1,2 @@
+>[Archive Fragment X04.23.0]\
+The technology was found to be quite useful for another purpose though: tracking. By activating the carbon nuclei of an individual person or object, they can be reliably tracked over large distances by detecting the unique flux pulses that they emit. Linked to a database that can then identify who produces what fluctuations, anyone so tagged can be tracked anywhere.

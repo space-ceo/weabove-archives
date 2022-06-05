@@ -1,0 +1,2 @@
+>[Archive Fragment W01.7.3]\
+The words of the Ordos are “Ordo ab chao”, which is Latin for “From chaos, comes order”. They are also known by the following sobriquets: The Seekers of Knowledge. The Servants of All Mankind. The Flame in the Darkness. The Eternal Citadel at the Edge of the Void.

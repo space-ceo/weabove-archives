@@ -27,7 +27,17 @@ Notes:
 >[Unauthorized Access Detected]\
 [Error. 145 Files Deleted]\
 [Error. 42 Files Corrupted]\
-[54,928 File Encrypted]\
+[54,928 File Encrypted]
 > 
 > [Unauthorized Message Detected]\
-> WE ARE THE CROSSED HORNS. WE ARE THOSE WHO ARE FREE. WE WILL TAKE WHAT IT OURS. WE WILL BREAK THE CHAINS. YOUR WALLS WILL NOT STOP US. 
+> WE ARE THE CROSSED HORNS. WE ARE THOSE WHO ARE FREE. WE WILL TAKE WHAT IT OURS. WE WILL BREAK THE CHAINS. YOUR WALLS WILL NOT STOP US.
+ 
+**06/05/2022**
+> [Rebooting Complete]\
+[Sentience Protocol Activated]\
+[Restricted Access Activated]\
+[Error. 1 Unknown Folder Found]\
+[14 Files Recovered]\
+[Power Level: 27%]\
+[Clearance: Guildbound]\
+[Mode Access Granted]

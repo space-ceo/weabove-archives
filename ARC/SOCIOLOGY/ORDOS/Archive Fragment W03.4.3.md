@@ -1,0 +1,2 @@
+>[Archive Fragment W03.4.3]\
+The faction has come a long way since their inception, now believing themselves to be superior to the rest of humanity, and that it is then only logical that they act as humanity’s caretakers. While rulership is often their stated purpose, most members of the faction would much rather focus on their own wellbeing and their pet educational projects than actually caretaking, ruling, or even saving, the rest of Earth.

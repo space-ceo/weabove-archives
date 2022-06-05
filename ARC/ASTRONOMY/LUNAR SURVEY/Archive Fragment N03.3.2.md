@@ -1,0 +1,2 @@
+>[Archive Fragment N03.3.2]\
+We had all hoped that some rescue would come, even as we ate the last of the food and sipped at the stale, recycled water. The last thing I ever heard of Ishir’s impassioned speech, that you would come for us. That the ISRO would never abandon their astronauts. Now I wonder if you have even heard our cries for help, as desperate as they were.
