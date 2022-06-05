@@ -1,0 +1,2 @@
+>[Archive Fragment N02.2.6]\
+I spent too much of my remaining oxygen stores moving Parvathi and Ishir out of the landing capsule. They deserved more than being buried under a bit of moon dust, but I just couldn’t stand sleeping and working next to their bodies anymore, even if the suits kept the smell contained. I hope they will forgive my defilement of their remains.

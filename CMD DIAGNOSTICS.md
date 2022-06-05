@@ -15,7 +15,7 @@
 │  ├─ Panel02 [Error. Alignment Off]
 │  ├─ Panel03 [Error. Damaged]
 │  ├─ Panel04 [Error. Damaged]
-├─ Geothermic [Encrypted]
+├─ Geothermic [Encrypted] (executor clearance required)
 ├─ Gravite [Locked]
 
 ```

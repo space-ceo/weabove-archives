@@ -1,0 +1,2 @@
+>[Archive Fragment N07.2.1]\
+Now that I think about it, the endless gray and dusty moon seems a better place to die than in this capsule. I have no hope in rescue, nor do I want to survive while the others perished. Yes. I will walk upon chaand once more and it shall be my tomb.

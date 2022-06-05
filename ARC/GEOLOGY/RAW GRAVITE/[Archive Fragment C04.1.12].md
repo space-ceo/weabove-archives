@@ -1,0 +1,2 @@
+>[Archive Fragment C04.1.12]\
+Raw gravite produces infrequent intense “push” and “pull” force effects. Though most raw gravite has an affinity to one force or the other, this property can randomly reverse, making it dangerous to store large amounts of raw gravite together, since the clash of opposing forces can create explosive, unpredictable effects.

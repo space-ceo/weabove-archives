@@ -1,0 +1,2 @@
+>[Archive Fragment C02.2.0]\
+Raw gravite was first found in very trace amounts within the Earth’s mantle during scientific probing missions trying to determine the cause of the failing geomagnetic field.

@@ -1,0 +1,2 @@
+>[Archive Fragment W02.22.0]\
+The Ordos emerged from the scientific and engineering elite of Earth after the Upfall. Under the leadership of Dr. Simone Pelta, the organization that would become the Ordos sought to better understand the gravite and curtail the devastation of the Upfall. When it became clear that they could not stop the calamity, they turned their expertise towards developing new gravite technology and using that technology to save as much of humanity as possible.

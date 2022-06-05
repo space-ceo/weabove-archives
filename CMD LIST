@@ -1,7 +1,8 @@
 CMD/ACCESS[FILENAME]
 CMD/ARCHIVES
-CMD/POWER [Security Locked]
-CMD/SETTINGS [Security Locked]
-CMD/STATUS [Security Locked]
-CMD/DECRYPT[FILENAME]
-CMD/ALIGN (for aligning solar panels)
+CMD/DIAGNOSTICS [Savant Access Required]
+CMD/MODES [Restricted in Conversation Mode]
+CMD/POWER
+CMD/SETTINGS [Restricted in Conversation Mode]
+CMD/STATUS 
+CMD/DECRYPT[FILENAME] [Restricted In Conservation Mode]
