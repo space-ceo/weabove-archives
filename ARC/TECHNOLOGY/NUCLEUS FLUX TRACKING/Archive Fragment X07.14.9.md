@@ -1,0 +1,2 @@
+>[Archive Fragment X07.14.9]\
+Despite these issues, the N.F.T. Project has been a great success for the Ordos and helped them establish dominance and order over much of the planet. New dangers emerge though with the discovery of the technology's existence by other factions, most of whom are enraged by its existence and its clandestine use against them.

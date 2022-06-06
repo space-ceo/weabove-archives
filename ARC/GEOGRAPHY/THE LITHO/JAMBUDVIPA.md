@@ -1,0 +1,2 @@
+>[Jambudvipa]\
+The Indian subcontinent, which drifts dangerously askew on a slope, with the Himalayan Mountains jutting up into the Drift. While sparsely populated due to its angle, those who live here are hearty and determined.

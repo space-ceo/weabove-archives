@@ -6,3 +6,7 @@ CMD/POWER
 CMD/SETTINGS [Restricted in Conversation Mode]
 CMD/STATUS 
 CMD/DECRYPT[FILENAME] [Restricted In Conservation Mode]
+CMD/CANCEL (for canceling in-flight commands)
+CMD/Y (yes) and CMD/N (no)
+
+CMD/LOVE

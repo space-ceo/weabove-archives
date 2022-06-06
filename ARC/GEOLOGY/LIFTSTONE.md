@@ -1,0 +1,2 @@
+>[LIFTSTONE]\
+Liftstone is raw gravite which more often exhibits “push” effects. These effects could include sudden decrease in mass of the liftstone or of nearby matter without any change in size. Intense push force away from the liftstone of all nearby matter or select objects. Lift effects where the lifestone or matter nearby becomes practically weightless and can “float” in otherwise standard gravity.

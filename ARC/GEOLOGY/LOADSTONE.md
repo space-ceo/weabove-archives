@@ -1,0 +1,2 @@
+>[LOADSTONE]\
+Loadstone is raw gravite which more often exhibits “pull” effects. These effects could include sudden increase in mass of the loadstone or of nearby matter without any change in size. Intense pull force towards the loadstone of all nearby matter, or select objects. “Ring” effects where matter forms an orbit around the loadstone.

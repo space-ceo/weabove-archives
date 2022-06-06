@@ -1,0 +1,2 @@
+>[Archive Fragment X06.20.16]\
+The N.F.T. Project is not without its flaws though. It requires that the target be tagged at close range with a graviton beam set at a specific frequency that is different between person and object. This tagging also fades overtime as the carbon atoms decay and so require occasional reapplication. The frequency transmitted by the nucleus flux is sometimes intermittent, allowing the target to be intermittently undetectable for up to an hour at a time.
