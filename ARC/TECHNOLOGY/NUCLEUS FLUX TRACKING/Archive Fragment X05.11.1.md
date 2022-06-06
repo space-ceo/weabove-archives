@@ -1,0 +1,2 @@
+>[Archive Fragment X05.11.1]\
+The process was quickly applied to the Ordos citizenry database, and was further expanded to and include other persons of interest. This became known as the Nucleus Flux Track Project and its existence was a tightly held secret among the Savants and Executors. Using the tracking data, the Ordos were able to root out spies, traitors, and criminals within their own midst, while also allowing their enemies to be unwitting spies.

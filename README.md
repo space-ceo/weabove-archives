@@ -12,6 +12,7 @@ with historical tracking - hoping it helps with lore detective work!
 >Known clearance levels:
 > - Artisan
 > - Executor
+> - Savant
 
 
 >Known protocols:

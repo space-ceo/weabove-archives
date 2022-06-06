@@ -1,0 +1,2 @@
+>[Archive Fragment W05.13.4]\
+A majority of the faction lives on isles within the Drift, using their technology to create artificial environments where others would be unable to survive. They maintain strong influence over many landmasses in the Litho, using trade, diplomacy, and military threat to gain access to any resources and goods they might require.

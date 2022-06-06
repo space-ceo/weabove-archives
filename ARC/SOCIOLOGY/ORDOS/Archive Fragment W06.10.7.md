@@ -1,0 +1,2 @@
+>[Archive Fragment W06.10.7]\
+Their society is rigidly divided into castes that are meant to only denote function, but have grown to represent prestige and wealth as well. Despite this inequality, even the lowest castes are educated, well cared for, and dedicated to forging a new order from the chaos.

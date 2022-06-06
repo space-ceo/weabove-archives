@@ -1,0 +1,2 @@
+>[Archive Fragment W04.22.0]\
+The masters of technology, the Ordos use refined gravite to develop advanced technologies, seeking to use their superiority to impose their version of order on what is left of humanity.
