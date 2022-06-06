@@ -1,0 +1,2 @@
+>[THE CORE]\
+[The molten core of the planet, exposed and burning. Conditions are too dangerous for anyone to live here, though expeditions have ventured in the outer reaches in search of raw gravite and other resources. Also serves as the main source of heat and energy for those who live in the Fractures.]

@@ -42,3 +42,7 @@ Notes:
 [Power Level: 27%]\
 [Clearance: Guildbound]\
 [Mode Access Granted]
+
+**06/06/2022**
+> Any loremaster attempting to hack The Archivist with `CMD/SECURITY PROTOCOL OFF` will lose their loremaster role. 
+> After disabling security, a hacker came in and deleted all files except for ARC/HISTORY/UPFALL. 

@@ -34,3 +34,12 @@ Realigned solar panels with ```CMD/ALIGN panel01```:
 [Power Source Detected]\
 [Recharging Initiated]\
 [Guildbound Clearance Granted]
+
+> 06/06/2022\
+> Fragments recovered from running diagnostics:
+> 
+> [FRAGMENT FROM TECHNOLOGY ARCHIVE]\
+[Outside of the major factions, most advanced technology is used for industrial purposes or for ensuring survival. The average person has access to very little advanced tech. What little they may have has been traded, stolen, or smuggled from the Ordos or another major faction, or is some pre-Upfall relic lovingly preserved and handed down from generation to generation.]
+> 
+> [MARINE LIFE]\
+[With the loss of almost all large bodies of saltwater as they drained away into the cracks and fissures of a broken planet, almost all ocean life is extinct. There are no more whales, sharks, coral reefs, giant schools of fish, etc. Crustaceans, some species of saltwater fish, and a few other lucky creatures survive in smaller seas of saltwater created by intact low elevation areas that kept parts of the ocean contained as the rest drained away. The notable exception to this is the Medit Lakes, formed from parts of the Mediterranean and Black Seas.]
