@@ -43,3 +43,9 @@ Realigned solar panels with ```CMD/ALIGN panel01```:
 > 
 > [MARINE LIFE]\
 [With the loss of almost all large bodies of saltwater as they drained away into the cracks and fissures of a broken planet, almost all ocean life is extinct. There are no more whales, sharks, coral reefs, giant schools of fish, etc. Crustaceans, some species of saltwater fish, and a few other lucky creatures survive in smaller seas of saltwater created by intact low elevation areas that kept parts of the ocean contained as the rest drained away. The notable exception to this is the Medit Lakes, formed from parts of the Mediterranean and Black Seas.]
+> 
+> [FRAGMENT FROM TRADE ARCHIVE]\
+[The [REDACTED] prefer the system of barter and trade that has become the norm across the world. Some clans can be noble and fair traders, while others might be swindlers and thieves, but all find a way to work within or exploit the system to a degree that the [REDACTED] and the [REDACTED] rarely do.]
+> 
+> [FRAGMENT FROM SOCIOLOGY ARCHIVE]\
+While the major factions maintain dominant control over the remnants of Earth, the lack of reliable communication and travel between landmasses make this control tenuous at best. Many communities exist beneath notice, just surviving best they can, day by day. 
