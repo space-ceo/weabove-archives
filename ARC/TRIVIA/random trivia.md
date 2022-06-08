@@ -23,3 +23,7 @@
 - The stuffed body of the Fin Whale, affectionately named Giganto by locals, still sits within the Bursa Museum of Natural History. Admired by hundreds of visitors a month.
 
 - Did you know that the Pact Lands are located in the Litho layer?
+
+- Did you know that RoxSolid Root beer is the favorite drink among those who live in the Fractures? It contains 12g of caffeine and has an earthy, sweet taste.
+
+- Did you know that due to the lack of clean water, carbonated drinks became a reliable way to access potable hydration?
