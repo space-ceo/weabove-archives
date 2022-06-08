@@ -48,4 +48,9 @@ Realigned solar panels with ```CMD/ALIGN panel01```:
 [The [REDACTED] prefer the system of barter and trade that has become the norm across the world. Some clans can be noble and fair traders, while others might be swindlers and thieves, but all find a way to work within or exploit the system to a degree that the [REDACTED] and the [REDACTED] rarely do.]
 > 
 > [FRAGMENT FROM SOCIOLOGY ARCHIVE]\
-While the major factions maintain dominant control over the remnants of Earth, the lack of reliable communication and travel between landmasses make this control tenuous at best. Many communities exist beneath notice, just surviving best they can, day by day. 
+While the major factions maintain dominant control over the remnants of Earth, the lack of reliable communication and travel between landmasses make this control tenuous at best. Many communities exist beneath notice, just surviving best they can, day by day.
+> 
+> [Fragment Recovered]\
+>[The Umbral Compact]\
+>Since the Upfall, criminal organizations have struggled with each other and fought against attempts from lawful authorities to control them. This struggle continued until the Crossed Horns gained dominance in the underworld during the Umbral Conflicts. A quick series of battles, bribes and betrayals, thefts and slaughter within the Fractures and in the lands above that showed that the Crossed Horns had no equal.\
+>The Umbral Compact was created to keep the Crossed Horns in check, as the other clandestine groups joined together to resist them. In the end it was all for naught. With the rise of the Ordos they were driven back down into the Fractures, where Freo Clans picked them apart bit by bit until they were a mere shadow of their former glory.]
