@@ -17,3 +17,9 @@
 - [Random Fact] Did you know that despite several attempts at eradication and the destruction of much of their natural habitat, the geomys bursarius continues to be one of the most tenacious and hated pests in the Litho.
 
 - Did you know that UAF stands for Universal Annual Factoring?
+
+- Did you know that Ionia Lake contained the only remaining whale for decades until it was killed by accident during a training exercise in 180 UAF?
+
+- The stuffed body of the Fin Whale, affectionately named Giganto by locals, still sits within the Bursa Museum of Natural History. Admired by hundreds of visitors a month.
+
+- Did you know that the Pact Lands are located in the Litho layer?
